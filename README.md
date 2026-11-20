@@ -11,7 +11,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-C-FF6B6B?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-4ECDC4?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Cartoon_Coder-FFD93D?style=for-the-badge&logo=github&logoColor=black" />
 </p>
 
 <h2 align="center">🎨 About Me</h2>
@@ -37,8 +36,8 @@
 <h2 align="center">🤝 Connect With Me 🎈</h2>
 <p align="center">
   <a href="https://github.com/suryawanshiom20012009-droid"><img src="https://img.shields.io/badge/GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.instagram.com/om_suryawanshi_"><img src="https://img.shields.io/badge/Instagram-FF6B6B?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:omsuryawanshi@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFD93D?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <a href="https://www.instagram.com/om_suryawanshi_201"><img src="https://img.shields.io/badge/Instagram-FF6B6B?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:suryawanshiom20012009@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFD93D?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 </p>
 
 <div align="center">
